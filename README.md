@@ -1,1 +1,1 @@
-<a href="https://williamperes.github.io/portfolio-web/" style="max-width:100%;"><a/>
+<a href="https://williamperes.github.io/portfolio-web/" "></a>
