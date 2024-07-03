@@ -1,1 +1,3 @@
-<a href="https://williamperes.github.io/portfolio-web/"></a>
+<a>
+<img src="https://williamperes.github.io/portfolio-web/"/>
+</a>
