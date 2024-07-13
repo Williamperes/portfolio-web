@@ -128,9 +128,8 @@ img {
   .nav__menu {
     position: fixed;
     top: var(--header-height);
-    right: -100%;
-    width: 80%;
-    height: 100%;
+    width: auto;
+    height:33%;
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
