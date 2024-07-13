@@ -129,7 +129,7 @@ img {
     position: fixed;
     top: var(--header-height);
     width: auto;
-    height:33%;
+    height:45%;
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
