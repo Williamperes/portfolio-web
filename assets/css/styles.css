@@ -128,12 +128,15 @@ img {
   .nav__menu {
     position: fixed;
     top: var(--header-height);
-    width: auto;
-    height:45%;
+    width:auto;
+    height: 45%;
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
     display:flex;
+  }
+  .nav__list{
+    font-size: 10px;
   }
 }
 .nav__item {
