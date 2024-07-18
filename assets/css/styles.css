@@ -133,7 +133,7 @@ img {
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
-  
+    display:flex;
   }
 }
 .nav__item {
