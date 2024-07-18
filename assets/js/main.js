@@ -56,6 +56,7 @@ sr.reveal('.home__img, .about__subtitle, .about__text, .skills__img',{delay: 400
 sr.reveal('.home__social-icon',{ interval: 200}); 
 sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200}); 
 
+
 var btn = document.querySelector('.nav__logo');
 var nav__menu = document.querySelector('.nav__menu');
 
@@ -68,3 +69,4 @@ btn.addEventListener('click', function(){
     }
 
 });
+
