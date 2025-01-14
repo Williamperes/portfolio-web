@@ -133,7 +133,7 @@ img {
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
-    display:block;
+    display:none;
   }
   .nav__list{
     font-size: 10px;
@@ -359,7 +359,7 @@ img {
   width: 85%;
 }
 .skills__img {
-  margin-top:50px ;
+  margin-top:80px ;
   border-radius: 0.5rem;
   border-radius: 0.5rem;
   box-shadow: 0px 4px 35px rgba(14, 36, 49, 0.25);
